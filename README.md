@@ -1,4 +1,4 @@
-# 🩵🩷🤍🩷🩵 
+# Soluna 🩵🩷🤍🩷🩵 
 🐱 21, she/her
 🦀 Proud Rustacean and game developer!
 🐦 Currently learning Bevy
