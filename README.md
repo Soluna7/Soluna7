@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Soluna7
-- 👀 I love Rain World
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on anything involving voice acting! Or just programming in general though I'm still getting used to things.
-- 📫 @Soluna7 on Discord
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am an extreme skiier.
+# 🩵🩷🤍🩷🩵 
+🐱 21, she/her
+🦀 Proud Rustacean and game developer!
+🐦 Currently learning Bevy
 
-<!---
-Soluna7/Soluna7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📦 My big long-term project is an as of yet unnamed dynamic small-voxel game, and that's what I'm currently developing dependencies for!
+
+📜 Devlogs available on my socials!
+
+🐘 [Mastodon](https://mastodon.social/@Soluna)
+🦋 [BlueSky](https://bsky.app/profile/soluna7.bsky.social)
+🎞️ [YouTube](https://www.youtube.com/@SolunaStarlight) (Work in Progress!)
