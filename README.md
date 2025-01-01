@@ -15,6 +15,8 @@
 
 ## 📜 Devlogs available on my socials!
 
+🎮 [Discord](https://discord.gg/wrtyXYwZPn)
+
 🐘 [Mastodon](https://mastodon.social/@Soluna)
 
 🦋 [BlueSky](https://bsky.app/profile/soluna7.bsky.social)
