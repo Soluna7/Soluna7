@@ -9,7 +9,7 @@
 
 ## 🗃️ Current Projects:
 
-📦 My big long-term project is an as of yet unnamed dynamic small-voxel game, and that's what I'm currently developing dependencies for!
+📦 My big long-term project is Analemma, a mini-voxel surviaval game and physics sim, and that's what I'm currently developing dependencies for!
 
 📚 Otherwise just learning Bevy and Rust with some small projects to build up some experience :3
 
