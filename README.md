@@ -9,7 +9,9 @@
 
 ## 🗃️ Current Projects:
 
-📦 My big long-term project is Analemma, a mini-voxel surviaval game and physics sim, and that's what I'm currently developing dependencies for!
+📦 Exergy: Small puzzle game currently in development which revolves around the second law of thermodynamics.
+
+📦 Auralemma: Large scope cyclic sandbox game I will make someday when I have more game dev experience
 
 📚 Otherwise just learning Bevy and Rust with some small projects to build up some experience :3
 
