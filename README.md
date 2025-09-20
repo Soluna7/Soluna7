@@ -7,6 +7,8 @@
 
 🐦 Currently learning Bevy
 
+🚫🤖 Staunchly against generative AI without exception. Do not use my code to train AI, I do not consent to such uses.
+
 ## 🗃️ Current Projects:
 
 📦 Exergy: Small puzzle game currently in development which revolves around the second law of thermodynamics.
